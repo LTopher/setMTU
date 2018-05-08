@@ -1,5 +1,5 @@
 ;~ File: setMTU_1200_1500.au3
-;~ Author: Christopher Meskill
+;~ Author: LTopher
 ;~ Date: 5-2-2018
 ;~ Purpose: Quickly and easily change the MTU size as needed
 
